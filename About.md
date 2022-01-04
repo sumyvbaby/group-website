@@ -1,7 +1,7 @@
 ---
 layout: default 
 title : About
-theme : cayman
+theme : jekyll-theme-cayman
 ---
 {{ site.description }}
 ## Project
