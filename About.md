@@ -1,6 +1,7 @@
 ---
 layout: default 
 title : About
+theme : cayman
 ---
 {{ site.description }}
 ## Project
