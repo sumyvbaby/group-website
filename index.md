@@ -1,7 +1,8 @@
 ---
-lesson-example: "https://carpentries.github.io/lesson-example/"
+lesson-example: "https://carpentries.github.io/lesson-example/"  
+layout: default  
 ---
- layout: default  
+
 
 
 # Building websites in github
