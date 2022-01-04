@@ -2,7 +2,7 @@
 layout: default  
 title : About
 ---
-
+{{ site.description }}
 ## Project
 This research project is all about teaching you how to create websites with GitHub pages.
 
