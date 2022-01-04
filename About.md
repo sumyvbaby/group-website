@@ -13,5 +13,5 @@ You can cite the project as:
 
 ## Contact us
 
-- Email: [team@carpentries.org](mailto:team@carpentries.org)
-- Twitter: [@thecarpentries](https://twitter.com/thecarpentries)
+- Email: [{{ site.email }}](mailto:{{ site.email }})
+- Twitter: [{{ site.twitter }}]({{ site.twitter }})
