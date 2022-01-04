@@ -12,3 +12,10 @@ More details about the project are available from the [About page](About.md).
 
 See some [examples of our work]({{ page.lesson-example }}).  
 Have any questions about what we do?[We'd love to hear from you!] (mailto: {{ site.email }})
+
+<hr>
+<p>Contact us</p>
+<ul>
+    <li>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+    <li>Twitter: <a href="{{ site.twitter }}">{{ site.twitter }}</a></li>
+</ul>
