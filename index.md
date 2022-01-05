@@ -1,6 +1,5 @@
 ---
 lesson-example: "https://carpentries.github.io/lesson-example/"  
-layout: home 
 title: Building websites in github
 ---
 
